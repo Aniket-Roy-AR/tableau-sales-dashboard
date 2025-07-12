@@ -1,145 +1,107 @@
-📋 Tableau Sales Story Dashboard
+📊 Sales Performance Optimization Dashboard
 
-This project showcases an interactive Sales Story Dashboard built using Tableau, based on the Superstore dataset. It provides a detailed multi-dimensional analysis of sales, profit, and customer segments across U.S. states and product categories.
+This project presents a case study of optimizing sales performance using Tableau, based on the popular Superstore dataset. Through this project, we identify key trends, underperforming segments, and high-potential areas that could drive better business decisions.
 
+🎯 Objective
 
+To analyze U.S.-based retail sales data in order to uncover:
 
-📁 Project Structure
+Which regions, segments, and categories contribute the most to revenue
 
-📁 Tableau-Sales-Story-Dashboard
-├── Super_store_DataSet.xlsx         # Dataset used in Tableau
-├── tableau_project/
-│   ├── Tableau_Dashboard.twbx       # Packaged Tableau workbook
-│   └── ~Tableau_Dashboard__5212.twbr  # Backup/Temporary Tableau file
-├── images/                          # Screenshots of key dashboards & story
-│   ├── Dashboard.png
-│   ├── Story_Page.png
-│   ├── Sheet1.png
-│   ├── Sheet2.png
-│   ├── Sheet3.png
-│   ├── Sheet4.png
-│   ├── Sheet5.png
-│   ├── Sheet6.png
-│   └── Sheet7.png
-└── README.md
+Where profit margins are shrinking despite high sales
 
-📌 Project Overview
+Opportunities for targeted marketing and inventory strategy improvements
 
-The Tableau Sales Story Dashboard analyzes Superstore sales data across several dimensions:
+📦 Dataset Used
 
-📦 Category & Sub-Category Analysis
+File: Superstore_Dataset.xlsx
 
-🗺️ State-wise Sales Distribution using Map
+Source: Public Tableau sample dataset
 
-🗓️ Year-wise Order Trend
+Fields:
 
-👥 Segment-wise Breakdown (Consumer, Corporate, Home Office)
+Order ID, Order Date, Ship Date, Segment
 
-💰 Sales vs Profit Comparison
+State, Region, Category, Sub-Category
 
-📊 Top & Bottom Performing Sub-Categories
+Sales, Profit, Discount, Quantity
 
-The dashboard is designed as a Tableau Story, guiding the user through different perspectives with narrative steps.
+📈 Key Business Insights
 
-📊 Key Visualizations
+🟢 Top-performing Region: West – leads both in sales and profitability.
 
-🔹 State-wise Sales Percentage Map
+🔴 Underperforming Categories: Some Technology sub-categories have high sales but generate losses in certain regions.
 
-An interactive map showing each U.S. state's contribution to total sales.California leads with ~20% of total sales.
+🔍 Segment Analysis: Consumer segment dominates but Home Office shows high average order value.
 
-
-
-🔹 Category & Sub-Category Bar Charts
-
-Office Supplies, Furniture, and Technology sales distribution.
-
-Sub-categories like Storage and Binders dominate in sales.
-
-🔹 Sales Trend Over Time
-
-Trend line showing growth across categories from 2022 to 2025.
-
-🔹 Segment-wise Distribution
-
-Consumer segment drives the majority of sales across categories.
-
-🌟 Insights from the Dashboard
-
-📍 California is the top-performing state in terms of sales.
-
-📈 Office Supplies category shows the highest overall growth.
-
-💡 Storage and Binders sub-categories generate the most revenue.
-
-🧑‍💼 Consumer Segment contributes more than 48% of total sales.
-
-📉 Some states show minimal or no sales — scope for expansion.
-
-📂 Data Source
-
-Dataset: Super_store_DataSet.xlsx
-
-Columns: Order Date, State, Category, Sub-Category, Segment, Sales, Profit, Quantity, Discount
+💰 State View: California and New York lead in sales; Texas and Ohio show profit inconsistencies.
 
 🛠️ Tools Used
 
-Tableau Public / Desktop — for dashboard creation
+Tableau Public – for dashboard development
 
-GitHub — for project version control and showcasing
+Excel – for data preprocessing
 
-Excel — for data preparation
+GitHub – for hosting and documentation
 
-🚀 How to Use
+🖥️ Project Files
 
-Clone the repository:
+📁 tableau-sales-performance
+├── Tableau_Sales_Dashboard.twbx     # Tableau workbook
+├── Superstore_Dataset.xlsx          # Original dataset
+├── README.md                        # Project documentation
+└── images/                          # Dashboard & insight screenshots
+    ├── dashboard_overview.png
+    ├── state_sales_map.png
+    ├── top_subcategories.png
+    ├── profit_trend.png
+    └── story_view.png
 
-git clone https://github.com/<your-username>/tableau-sales-story-dashboard.git
+📊 Visual Story Highlights
 
-Open Tableau Desktop or Tableau Public.
+📍 Regional Sales Map
 
-Navigate to the tableau_project/ folder.
+An interactive map showing percentage contribution to national sales.
 
-Open the file Tableau_Dashboard.twbx
+📋 Top & Bottom Sub-Categories
 
-Explore the dashboard and story page.
+Bar graph comparing high and low performers by profit.
 
-📸 Gallery of Visuals
+📉 Year-wise Profit Trend
 
-Story Page
+Line graph to show profitability fluctuations over years.
 
-Sheet 1
+👥 Segment vs Sales Pie Chart
 
-Sheet 2
+Consumer, Corporate, and Home Office contributions.
 
-Sheet 3
+📚 Story View in Tableau
 
-Sheet 4
+Step-by-step visual walk-through with narrative annotations.
 
-Sheet 5
+📌 All visuals are located in the images/ folder.
 
-Sheet 6
+🚀 How to Explore
 
-Sheet 7
+Clone this repository:
 
+git clone https://github.com/Aniket-Roy-AR/tableau-sales-dashboard.git
 
+Open Tableau Public or Tableau Desktop.
 
+Open the file Tableau_Sales_Dashboard.twbx
 
+Use the Story tab to explore each insight visually.
 
+📬 Contact
 
+Made by: Aniket Roy
 
+LinkedIn: linkedin.com/in/aniket-roy-profile
 
+Email: your.email@example.com
 
+Location: India
 
-
-
-
-
-
-
-
-Add additional screenshots inside the /images folder to expand the visual walkthrough.
-
-📧 Contact
-
-Made with ❤️ by Aniket Roy📢 Connect on LinkedIn📍 Location: India
+💡 This project is designed as a portfolio-ready, business-focused dashboard. Feel free to fork or suggest improvements via pull requests.
 
