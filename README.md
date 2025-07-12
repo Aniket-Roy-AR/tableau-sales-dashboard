@@ -68,3 +68,22 @@ To help the Superstore identify:
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Aniket-Roy-AR/tableau-sales-dashboard.git
+
+2. Open Tableau_Dashboard.twbx using Tableau Public/Desktop
+
+3. Explore the story layout and dashboards interactively
+
+## 📚 Data Source
+
+- Dataset: Super_store_DataSet.xlsx
+
+- Fields: Order ID, Order Date, Ship Date, Segment, Category, Sub-Category, Sales, Profit, Discount, Region, and State.
+
+## 💼 Business Value
+This dashboard can help:
+
+- Regional sales managers spot low-profit zones
+
+- Marketing teams decide where to boost offers
+
+- Product heads choose categories to promote or drop
