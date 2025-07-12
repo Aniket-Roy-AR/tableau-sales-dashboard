@@ -73,11 +73,15 @@ To help the Superstore identify:
 
 3. Explore the story layout and dashboards interactively
 
+---
+
 ## 📚 Data Source
 
 - Dataset: Super_store_DataSet.xlsx
 
 - Fields: Order ID, Order Date, Ship Date, Segment, Category, Sub-Category, Sales, Profit, Discount, Region, and State.
+
+---
 
 ## 💼 Business Value
 This dashboard can help:
@@ -87,3 +91,10 @@ This dashboard can help:
 - Marketing teams decide where to boost offers
 
 - Product heads choose categories to promote or drop
+
+---
+
+🙋‍♂️ About Me
+👤 Aniket Roy
+🎯 Business Analyst (SQL + Excel + Power BI + Tableau Learner)
+📬 aroy72325@gmail.com 🔗 www.linkedin.com/in/aniket-roy-00251b214
