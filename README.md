@@ -41,7 +41,7 @@ To help the Superstore identify:
 ---
 
 ### 3️⃣ **Category & Subcategory Analysis**
-- Visuals: (Sheet1.png), `Sheet2.png`, `Sheet3.png`
+- Visuals: `Sheet1.png`, `Sheet2.png`, `Sheet3.png`
 - Shows which products are driving sales vs generating losses.
 
 ### 4️⃣ **Year & Segment Trends**
