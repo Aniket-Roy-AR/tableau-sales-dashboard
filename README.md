@@ -97,6 +97,6 @@ This dashboard can help:
 ## 🙋‍♂️ About Me
 
 👤 **Aniket Roy**  
-🎯 Business Analyst (SQL + Excel + Power BI Learner)  
+🎯 Business Analyst (SQL + Excel + Power BI + Tableau Learner)  
 📬 aroy72325@gmail.com
 🔗 www.linkedin.com/in/aniket-roy-00251b214
